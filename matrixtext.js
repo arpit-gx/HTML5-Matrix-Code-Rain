@@ -9,7 +9,7 @@ for (var i = 0; i < stripCount; i++) {
     stripFontSize[i] = Math.floor(Math.random()*24)+12;
 }
 
-var theColors = ['#cefbe4', '#81ec72', '#5cd646', '#54d13c', '#4ccc32', '#43c728'];
+var theColors = ['#cefbe4', '#81ec72', '#5cd646', '#54d13c', '#4ccc32', '#29c20a'];
 
 var elem, context, timer;
 
